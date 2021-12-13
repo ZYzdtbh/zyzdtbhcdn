@@ -5,15 +5,15 @@
 使用方法：
 
 ```git
-git clone git@github.com:AndersonHJB/vd.git
+git clone git@github.com:ZYzdtbh/zyzdtbhcdn.git
 ```
 
 
 ## 2. Base Url
 
-基础的 URL，我这里是解析过的，所以使用：[https://github.aiyc.top/aiyccdn/](https://github.aiyc.top/aiyccdn/)，所以后面直接加上你的文件名称和后缀即可。
+基础的 URL，我这里是解析过的，所以使用：[http://zyzdtbh.aiyc.top/zyzdtbhcdn](http://zyzdtbh.aiyc.top/zyzdtbhcdn)，所以后面直接加上你的文件名称和后缀即可。
 
-https://github.aiyc.top/aiyccdn/+你的文件路径
+http://zyzdtbh.aiyc.top/zyzdtbhcdn/+你的文件路径
 
 视频分割命令：
 
@@ -22,5 +22,5 @@ ffmpeg -i [文件名].mp4 -profile:v baseline -level 3.0 -s 1920x1080 -start_num
 ```
 
 ```url
-https://github.aiyc.top/aiyccdn/
+http://zyzdtbh.aiyc.top/zyzdtbhcdn/
 ```
