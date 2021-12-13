@@ -22,5 +22,5 @@ ffmpeg -i [文件名].mp4 -profile:v baseline -level 3.0 -s 1920x1080 -start_num
 ```
 
 ```url
-http://zyzdtbh.aiyc.top/zyzdtbhcdn/
+https://zyzdtbh.aiyc.top/zyzdtbhcdn/
 ```
